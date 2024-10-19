@@ -56,7 +56,6 @@ Este projeto visa desenvolver um sistema de gestão e análise de estações de 
         - **app.js**: Lógica de frontend do sistema de troca de serviços.
         - **index.html**: Página HTML principal do sistema de troca de serviços.
         - **style.css**: Estilos CSS para a aplicação.
-- **tex.txt**: Arquivo de texto adicional com informações relevantes.
 - **text_activities.md**: Atividades descritas em português.
 - **text_activities_en.md**: Atividades descritas em inglês.
 

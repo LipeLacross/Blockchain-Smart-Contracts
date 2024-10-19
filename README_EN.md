@@ -56,7 +56,6 @@ This project aims to develop a management and analysis system for treatment stat
         - **app.js**: Frontend logic for the service exchange system.
         - **index.html**: Main HTML page for the service exchange system.
         - **style.css**: CSS styles for the application.
-- **tex.txt**: Additional text file with relevant information.
 - **text_activities.md**: Activities described in Portuguese.
 - **text_activities_en.md**: Activities described in English.
 
